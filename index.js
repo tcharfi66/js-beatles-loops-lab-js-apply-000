@@ -15,7 +15,7 @@ function theBeatlesPlay(mus, inst){
 function johnLennonFacts(facts){
   var ctr = 0
   while( ctr< facts.length){
-    facts[i] += '!!!';
+    facts[ctr] += '!!!';
     ctr++
   } 
   
