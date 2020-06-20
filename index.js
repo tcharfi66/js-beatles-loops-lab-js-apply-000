@@ -1,8 +1,10 @@
 // add solution here
 
-function theBeatlesPlay(Array){
+function theBeatlesPlay(mus, inst){
   
   var list = [] 
+  
+  for()
   
   
   
