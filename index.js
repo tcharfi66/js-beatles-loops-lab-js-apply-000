@@ -13,7 +13,7 @@ function theBeatlesPlay(mus, inst){
 }
 
 function johnLennonFacts(facts){
-  var ctr = 0
+  var ctr = 0;
   while( ctr< facts.length){
     facts[ctr] += '!!!';
     ctr++
@@ -21,6 +21,8 @@ function johnLennonFacts(facts){
   
   return facts;
 }
+
+
 
 function iLoveTheBeatles(num){
   
