@@ -8,8 +8,6 @@ function theBeatlesPlay(mus, inst){
     list.push(mus[i] + "plays" + inst[i])
     
   }
-  
-  
-  
+  return list 
   
 }
