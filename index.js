@@ -29,10 +29,13 @@ function iLoveTheBeattles(num){
   
   do{
     
+    list += "I love the Beatles!"
     
     num ++
-  }while();
+  }while(num < 15);
   
+  
+  return list 
 }
 
 
