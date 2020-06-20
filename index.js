@@ -2,13 +2,13 @@
 
 function theBeatlesPlay(mus, inst){
   
-  var list = [] 
+  var list = []; 
   
   for(var i=0; i< mus.length; i++){
     list.push(mus[i] + " plays " + inst[i])
     
   }
-  return list 
+  return list; 
   
 }
 
@@ -24,18 +24,18 @@ function johnLennonFacts(facts){
 
 function iLoveTheBeattles(num){
   
-  var list = []
+  var list = [];
   
   
   do{
     
-    list += "I love the Beatles!"
+    list.push("I love the Beatles!");
     
-    num ++
+    num ++;
   }while(num < 15);
   
   
-  return list 
+  return list;
 }
 
 
