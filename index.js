@@ -11,3 +11,14 @@ function theBeatlesPlay(mus, inst){
   return list 
   
 }
+
+function johnLennonFacts(facts){
+  
+  
+  
+  
+  
+  
+  
+  
+}
