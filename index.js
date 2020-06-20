@@ -4,7 +4,10 @@ function theBeatlesPlay(mus, inst){
   
   var list = [] 
   
-  for()
+  for(var i=0; i< musicians.length; i++){
+    
+    
+  }
   
   
   
