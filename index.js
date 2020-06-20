@@ -22,7 +22,18 @@ function johnLennonFacts(facts){
   return facts;
 }
 
-
+function iLoveTheBeattles(num){
+  
+  var list = []
+  
+  
+  do{
+    
+    
+    num ++
+  }while();
+  
+}
 
 
 
