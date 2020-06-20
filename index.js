@@ -22,7 +22,7 @@ function johnLennonFacts(facts){
   return facts;
 }
 
-function iLoveTheBeattles(num){
+function iLoveTheBeatles(num){
   
   var list = [];
   
