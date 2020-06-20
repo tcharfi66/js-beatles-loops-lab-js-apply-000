@@ -26,13 +26,13 @@ function iLoveTheBeattles(num){
   
   var list = [];
   
-  
+  var ctr = 0;
   do{
     
     list.push("I love the Beatles!");
     
-    num ++;
-  }while(num < 15);
+      ctr ++;
+  }while(ctr<= num && num < 15);
   
   
   return list;
